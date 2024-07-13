@@ -1,3 +1,4 @@
+<<<<<<r HEAD
 def somme (l)
 s=0
 for e in l:
@@ -6,4 +7,6 @@ for e in l:
 my_list=[1,5,7]
 som=somme(my_list)
 print ('la somme est =', som)
+ jawher
+
 
